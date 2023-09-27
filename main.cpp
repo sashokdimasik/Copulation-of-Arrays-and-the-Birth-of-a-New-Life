@@ -4,7 +4,7 @@
  * Variant:      14                                               *
  * Date:         20.09.2023                                       *
  * Project name: Copulation of Arrays and the Birth of a New Life *
- * OnlineGDB: https://onlinegdb.com/ZHeYG9xEnA                    *
+ * OnlineGDB: https://onlinegdb.com/5m-cvvrQ5                     *
  ******************************************************************/
 
 #include <iostream>
@@ -19,8 +19,7 @@ double positiveSum(double *arr, int size) {
   return sum;
 }
 
-int main()
-{
+int main() {
   int size;
   
   cout << "Enter arrays' size: ";
