@@ -4,7 +4,7 @@
  * Variant:      14                                               *
  * Date:         20.09.2023                                       *
  * Project name: Copulation of Arrays and the Birth of a New Life *
- * OnlineGDB: https://onlinegdb.com/pWfgHff9gL                    *
+ * OnlineGDB:    https://onlinegdb.com/pWfgHff9gL                 *
  ******************************************************************/
 
 #include <iostream>
